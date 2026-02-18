@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\bin\Debug\net10.0\3. Properties of classes.exe
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\bin\Debug\net10.0\3. Properties of classes.deps.json
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\bin\Debug\net10.0\3. Properties of classes.runtimeconfig.json
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\bin\Debug\net10.0\3. Properties of classes.dll
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\bin\Debug\net10.0\3. Properties of classes.pdb
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.AssemblyInfo.cs
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.sourcelink.json
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.dll
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\refint\3. Properties of classes.dll
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.pdb
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\3. Properties of classes.genruntimeconfig.cache
+C:\Users\user\source\repos\3. Properties of classes\3. Properties of classes\obj\Debug\net10.0\ref\3. Properties of classes.dll
